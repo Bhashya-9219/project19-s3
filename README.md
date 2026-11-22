@@ -10,15 +10,6 @@ Automate Linux log backups to AWS S3 using cron jobs.
 - Linux Cron
 - Bash scripting
 
-## Project Structure
-project19-s3/
-├── logs/
-│   ├── app.log
-│   ├── backup.log
-│   └── system.log
-├── backup.sh
-├── README.md
-
 ## S3 Bucket
 mb-project19-scheduled-backup-2026
 
